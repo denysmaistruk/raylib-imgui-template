@@ -237,7 +237,7 @@ bool ImGui_ImplRaylib_ProcessEvent()
 
     FOR_ALL_KEYS(SET_KEY_DOWN);
 
-    int keyPressed = GetKeyPressed();
+    int keyPressed = GetCharPressed();
     if (keyPressed > 0)
     {
         io->AddInputCharacter(keyPressed);

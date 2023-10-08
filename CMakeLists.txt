@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.18)
 
-project(raylib_imgui_template VERSION 0.1)
+project(raylib_imgui_template VERSION 1.0)
 
 # project config
 set(CMAKE_CXX_STANDARD 17)
