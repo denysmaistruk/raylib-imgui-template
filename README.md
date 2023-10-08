@@ -17,7 +17,7 @@ This template project is a starting point for building C++ applications with Ray
 
 To get started with your project using this template, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/denysmaistruk/raylib-imgui-template`
+1. Clone this repository: `git clone --recursive https://github.com/denysmaistruk/raylib-imgui-template`
 2. Build with CMake.
 3. Customize and extend the code to suit your project's needs.
 

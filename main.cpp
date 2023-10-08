@@ -42,7 +42,7 @@ int main(int argc, char const** argv)
     int height = screenHeight;
 
     io->Fonts->TexDesiredWidth = 2048;
-    io->Fonts->TexGlyphPadding = 0;
+    io->Fonts->TexGlyphPadding = 1;
     io->Fonts->Flags |= ImFontAtlasFlags_NoPowerOfTwoHeight;
 
     io->Fonts->GetTexDataAsRGBA32(&pixels, &width, &height, nullptr);
