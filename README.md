@@ -10,7 +10,6 @@ This template project is a starting point for building C++ applications with Ray
 
 - **Raylib Integration**: Easily create 2D and 3D graphics with raylib, a simple and easy-to-use C library.
 - **ImGui Integration**: Incorporate ImGui for creating powerful, customizable user interfaces.
-- **Cross-Platform**: Supported on Windows, macOS, Linux, and more.
 - **Example Application**: Includes a basic example application to demonstrate usage (main.cpp).
 
 ## Getting Started
@@ -23,7 +22,7 @@ To get started with your project using this template, follow these steps:
 
 ## Requirements
 
-- C++17 compatible compiler (e.g., GCC, Clang, Visual Studio)
+- C++17 compatible compiler (e.g., GCC, Clang, Visual Studio, the standard also can be changed in CMakeLists.txt)
 
 ## License
 
@@ -35,5 +34,5 @@ Special thanks to the creators of Raylib and ImGui for their fantastic libraries
 
 ## Related Projects
 
-- [raylib](https://github.com/raysan5/raylib) - raylib repository
+- [Raylib](https://github.com/raysan5/raylib) - raylib repository
 - [ImGui](https://github.com/ocornut/imgui) - ImGui repository
