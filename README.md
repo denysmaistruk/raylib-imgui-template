@@ -1,6 +1,7 @@
 # Raylib-ImGui C++ Template
 
-![image](https://user-images.githubusercontent.com/56446223/193429275-6e251ccc-b309-4917-998d-539133830c40.png)
+![image](https://github.com/denysmaistruk/raylib-imgui-template/assets/56446223/f02b66bf-deca-41ba-b939-a070e87815ac)
+
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 

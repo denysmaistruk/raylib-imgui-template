@@ -20,8 +20,6 @@ int main(int argc, char const** argv)
 
     Vector3 cubePosition = { 0.0f, 0.0f, 0.0f };
 
-    SetCameraMode(camera, CAMERA_FREE); // Set a free camera mode
-
     SetTargetFPS(60);                   // Set our game to run at 60 frames-per-second
     //--------------------------------------------------------------------------------------
 
@@ -66,7 +64,7 @@ int main(int argc, char const** argv)
     {
         // Update
         //----------------------------------------------------------------------------------
-        UpdateCamera(&camera);          // Update camera
+        UpdateCamera(&camera, CAMERA_ORBITAL);          // Update camera
 
         if (IsKeyDown('Z')) camera.target = Vector3{ 0.0f, 0.0f, 0.0f };
         //----------------------------------------------------------------------------------
