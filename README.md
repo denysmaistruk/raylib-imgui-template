@@ -23,7 +23,7 @@ To get started with your project using this template, follow these steps:
 
 ## Requirements
 
-- C++17 compatible compiler (e.g., GCC, Clang, Visual Studio, the standard also can be changed in CMakeLists.txt)
+- C++17 compatible compiler (e.g., GCC, Clang, Visual Studio), also, the standard can be changed in CMakeLists.txt.
 
 ## License
 
@@ -35,5 +35,5 @@ Special thanks to the creators of Raylib and ImGui for their fantastic libraries
 
 ## Related Projects
 
-- [Raylib](https://github.com/raysan5/raylib) - raylib repository
+- [Raylib](https://github.com/raysan5/raylib) - Raylib repository
 - [ImGui](https://github.com/ocornut/imgui) - ImGui repository
