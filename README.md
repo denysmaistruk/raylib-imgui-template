@@ -7,20 +7,6 @@
 
 This template project is a starting point for building C++ applications with Raylib and ImGui.
 
-## Features
-
-- **Raylib Integration**: Easily create 2D and 3D graphics with raylib, a simple and easy-to-use C library.
-- **ImGui Integration**: Incorporate ImGui for creating powerful, customizable user interfaces.
-- **Example Application**: Includes a basic example application to demonstrate usage (main.cpp).
-
-## Getting Started
-
-To get started with your project using this template, follow these steps:
-
+## Build
 1. Clone this repository: `git clone --recursive https://github.com/denysmaistruk/raylib-imgui-template`
 2. Build with CMake.
-3. Customize and extend the code to suit your project's needs.
-
-## Requirements
-
-- C++17 compatible compiler (e.g., GCC, Clang, Visual Studio), also, the standard can be changed in CMakeLists.txt.
